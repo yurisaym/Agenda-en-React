@@ -16,7 +16,7 @@ const data = [
   { id: 1, personaje: 'Danilson', anime: 'vicio' },
   { id: 2, personaje: 'Yurisay', anime: 'lala' },
   { id: 3, personaje: 'Summer', anime: 'mascota' },
-  { id: 4, personaje: 'Pepe', anime: 'sexual' }
+  { id: 4, personaje: 'Pepe', anime: 'juguete' }
 ]
 
 class App extends React.Component {
